@@ -1,0 +1,14 @@
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.exe
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.dll
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.pdb
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.dll
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
