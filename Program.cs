@@ -2,14 +2,92 @@
 using System.Globalization;
 
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
+LeituraArquivo arquivo = new LeituraArquivo();
 
-estados.Add("CE", "Ceará");
-estados.Add("PE", "Pernambuco");
-estados.Add("BA", "Bahia");
-estados.Add("PI", "Piauí");
+var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
 
-System.Console.WriteLine(estados["CE"]);
+if (sucesso)
+{
+    System.Console.WriteLine("Quantidade linhas do arquivo:" + quantidadeLinhas);
+    foreach(string linha in linhasArquivo)
+    {
+        System.Console.WriteLine(linha);
+    }
+}
+else
+{
+    System.Console.WriteLine("Não foi possível ler o arquivo");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// (int Id, string Nome, string Sobrenome, decimal Altura) tupla = (1, "Jacques", "Galdino", 1.84M);
+
+// System.Console.WriteLine($"Id: {tupla.Id}");
+// System.Console.WriteLine($"Nome: {tupla.Nome}");
+// System.Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
+// System.Console.WriteLine($"Altura: {tupla.Altura}");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Dictionary<string, string> estados = new Dictionary<string, string>();
+
+// estados.Add("CE", "Ceará");
+// estados.Add("PE", "Pernambuco");
+// estados.Add("BA", "Bahia");
+// estados.Add("PI", "Piauí");
+
+// System.Console.WriteLine(estados["CE"]);
 
 // foreach(var item in estados)
 // {

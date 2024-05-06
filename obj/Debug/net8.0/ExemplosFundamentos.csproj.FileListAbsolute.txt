@@ -12,3 +12,4 @@ C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\refint\Exemplos
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.sourcelink.json
