@@ -13,8 +13,14 @@ namespace ExemplosFundamentos.Models
         }
         public Pessoa(string nome, string sobrenome)
         {
-            nome = nome;
-            sobrenome = sobrenome;
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
         }
 
         private string _nome;
