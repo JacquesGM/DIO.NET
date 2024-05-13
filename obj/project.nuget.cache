@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cMIds1v1QlSRSR/UCKjqPK3z5DXiipyQ9xw2T9oK273zrpyo+7uKNoAmuxeUPyI5xw2fgVPd1/skpeLmDa7bcA==",
+  "dgSpecHash": "GOIU5pDHAqOYmjwGVDVOe3P5EdGF3MhlyZNdLuCbtB3C56NlvSogMJafSp645ihRWwpxU83M2frBTGc83EZsOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jacqu\\Workflow\\Dio\\ExemplosFundamentos\\ExemplosFundamentos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jacqu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

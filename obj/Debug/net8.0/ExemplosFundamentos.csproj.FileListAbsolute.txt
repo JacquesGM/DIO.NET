@@ -13,3 +13,6 @@ C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundame
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
 C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.sourcelink.json
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.AssemblyReference.cache
+C:\Users\jacqu\Workflow\Dio\ExemplosFundamentos\obj\Debug\net8.0\Exemplos.851C969E.Up2Date
